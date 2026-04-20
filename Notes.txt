@@ -1,0 +1,11 @@
+What to complete on Wednesday 3/25
+
+1. Create Initial Plots
+    Base map, color scales, and units (4 total)
+2. One Custom Colormap
+    Custom colormap for line plots from green to yellow to red
+3. Adjust calculation of WBGT
+    Use OSHA calculator
+
+https://www.osha.gov/heat-exposure/wbgt-calculator
+
